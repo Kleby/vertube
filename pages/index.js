@@ -42,6 +42,7 @@ const StyledHeader = styled.div`
   .user-info {
     display: flex;
     align-items: center;
+    margin-top: 50px;
     width: 100%;
     padding: 16px 32px;
     gap: 16px;
